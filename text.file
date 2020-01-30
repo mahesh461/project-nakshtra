@@ -1,0 +1,9 @@
+ifconfig -a
+ping
+dig
+hostaname
+wget
+curl
+netstat
+ps -ef
+ssh host
